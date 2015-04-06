@@ -1,0 +1,21 @@
+{
+  "name": "ctf",
+  "version": "0.0.0",
+  "description": "An open source capture the flag websocket implementation.",
+  "main": "index.js",
+  "author": "Carl Colglazier <carl@carlcolglazier.com> (http://carlcolglazier.com/)",
+  "repository": "CarlColglazier/ctf",
+  "license": "ISC",
+  "scripts": {
+    "test": "jshint . && jscs ."
+  },
+  "dependencies": {
+    "p2": "^0.6.1"
+  },
+  "peerDependencies": {
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.3"
+  }
+}
