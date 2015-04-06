@@ -10,7 +10,7 @@ To install, simply declare `ctf` as a dependency through command line.
 
 ## Usage
 
-Here is an example of ctf in action using [Hapi](hapijs.com) and socket.io:
+Here is an example of ctf in action using [Hapi](http://hapijs.com) and socket.io:
 
 ```
 var Hapi = require('hapi'),
