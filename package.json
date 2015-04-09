@@ -1,6 +1,6 @@
 {
   "name": "ctf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An open source capture the flag websocket implementation.",
   "main": "index.js",
   "author": "Carl Colglazier <carl@carlcolglazier.com> (http://carlcolglazier.com/)",
